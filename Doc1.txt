@@ -1,4 +1,37 @@
-Hello Git
-Hello Git2
-Hello Git3
-Hello Git4
+1. git --version  ==> checks installed git's version
+
+2.  git config --global user.email "nehananhi713@gmail.com"
+
+3. git config --global user.email
+
+4. git config --global user.name
+
+5.  git init
+
+6.  git status
+
+7. cat filename
+
+8. git add filename
+
+9. git add .
+
+10. git commit -m "msg"
+
+11. git log
+
+12. git checkout <hash_key>
+
+13. git branch
+
+14. git branch advanced_command
+
+15. git checkout master
+
+16. git merge <child_branch_name>  ==> shold be run from parent
+
+17. touch .gitignore
+
+18. git rm -r --cached <filename> ==> if filename is already added and now need to be ignored
+
+19. git add .
